@@ -1,2 +1,2 @@
 ENCODER_MAP_ENABLE = yes
-
+MAXTOUCH_DEBUG = yes
