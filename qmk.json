@@ -3,6 +3,8 @@
     "build_targets": [
         ["georgen/peacock/v1_01", "debug"],
         ["georgen/peacock/v1_01", "default"],
-        ["georgen/peacock/v1_01", "acrylic"]
+        ["georgen/peacock/v1_01", "acrylic"],
+        ["georgen/peacock/v1_01", "stylus"],
+        ["georgen/peacock/v1_01", "vial"]
     ]
 }
